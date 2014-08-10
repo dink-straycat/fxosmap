@@ -1,0 +1,17 @@
+{
+  "name": "fxosmap",
+  "description": "FireFox app with OpenLayers.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Yasushi Kato",
+    "url": "http://dink-straycat.github.io"
+  },
+  "permissions": {
+    "desktop-notification": {
+      "description": "Needed for creating system notifications."
+    }
+  }
+}
